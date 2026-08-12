@@ -1,0 +1,12 @@
+{
+  "watermark_column": "modified_date",
+  "required_claim_fields": [
+    "claim_id",
+    "policy_id",
+    "claim_date",
+    "claim_amount",
+    "claim_status",
+    "modified_date"
+  ],
+  "quality_threshold_percent": 5
+}
